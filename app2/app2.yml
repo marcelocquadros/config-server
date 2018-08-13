@@ -1,1 +1,3 @@
-message: Demo client 2 default message
+dataSource: datasource
+endpoint: endpoint
+defaultConfig: defaultConfig;
