@@ -1,1 +1,3 @@
-message: Demo client2 dev profile
+dataSource: datasourceDEV
+endpoint: endpointDEV
+defaultConfig: defaultConfigDEV;
